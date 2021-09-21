@@ -1,0 +1,13 @@
+div {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    background-color: black;
+    color: #fff;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    font-size: 200px;
+}
